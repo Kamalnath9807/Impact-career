@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "jobs_faqs",
+  "info": {
+    "singularName": "jobs-faq",
+    "pluralName": "jobs-faqs",
+    "displayName": "jobsFaq"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "content": {
+      "type": "text"
+    }
+  }
+}
